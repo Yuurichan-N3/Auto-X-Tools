@@ -1,0 +1,50 @@
+Auto-X-Tools Proprietary License v1.0
+Last updated: 2025-08-11
+
+Copyright (c) 2025 Yuurichan-N3
+All rights reserved.
+
+1. Definitions
+   “Software” means the Auto-X-Tools project and all accompanying files.
+   “You” means the individual or entity using the Software.
+
+2. Grant of License
+   Subject to these terms, You are granted a limited, non-exclusive, non-transferable license
+   to install and use the Software for your own internal/personal use only.
+
+3. Restrictions
+   You shall NOT:
+   - copy, modify, translate, adapt, merge, or create derivative works of the Software;
+   - distribute, sell, sublicense, rent, lease, loan, publish, or make the Software available
+     to any third party (including public repositories);
+   - reverse engineer, decompile, or otherwise attempt to derive source code, except to the
+     extent such restriction is prohibited by applicable law;
+   - remove or alter any proprietary notices or marks.
+
+4. Ownership
+   The Software is licensed, not sold. All rights, title, and interest in and to the Software
+   remain with the copyright holder.
+
+5. Termination
+   This license terminates automatically if You breach any term. Upon termination You must
+   cease all use and destroy all copies of the Software.
+
+6. Disclaimer of Warranty
+   THE SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. Limitation of Liability
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+   OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. Third-Party Components
+   The Software may interface with or depend on third-party packages (e.g., Puppeteer, Chalk).
+   Such components are licensed by their respective authors under their own licenses, which
+   govern your use of those components.
+
+9. Governing Law
+   If required by law, disputes shall be resolved under the laws of your local jurisdiction.
+
+For license inquiries, contact: Yuurichan-N3
