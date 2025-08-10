@@ -1,0 +1,18 @@
+project: X DOM BOT - Multi-Account Actions
+purpose: Automate likes/retweets/follows/tweets/replies using Puppeteer (headless, terminal-only)
+developed_by: https://t.me/sentineldiscus
+entrypoint: bot.js
+runtime: node >=20
+files:
+  cookies_dir: ./X (X1.json, X2.json, ...)
+  config: konfiguration.json
+  targets:
+    - like.txt        # 1 tweet URL per line
+    - retweet.txt     # 1 tweet URL per line
+    - follow.txt      # 1 profile URL per line
+    - unfollow.txt    # 1 profile URL per line
+    - tweets.txt      # 1 text per line
+    - replies.txt     # "<tweet_url>|<reply text>"
+notes:
+  - keep JS source comment-free; documentation lives here.
+  - DNS fallback x.com <-> twitter.com handled in code.

@@ -1,0 +1,3 @@
+@echo off
+echo [run] starting bot...
+node bot.js

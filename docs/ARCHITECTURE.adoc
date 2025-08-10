@@ -1,0 +1,5 @@
+= X DOM BOT — Architecture
+:toc:
+
+== Overview
+Headless Puppeteer actions across multiple accounts.

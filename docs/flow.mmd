@@ -1,0 +1,12 @@
+flowchart TD
+A[Start] --> B[Load konfiguration.json]
+B --> C[List ./X -> X1.json..]
+C --> D{Targets?}
+D -- No --> E[Exit]
+D -- Yes --> F[Launch Puppeteer]
+F --> G[Set cookies (x.com/twitter.com)]
+G --> H{Logged in?}
+H -- No --> E
+H -- Yes --> I[Actions: like/retweet/reply/follow/tweet]
+I --> J[Cooldown & next account]
+J --> E

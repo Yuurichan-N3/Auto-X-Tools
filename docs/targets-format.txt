@@ -1,0 +1,6 @@
+like.txt       : https://x.com/<user>/status/<id>
+retweet.txt    : https://x.com/<user>/status/<id>
+follow.txt     : https://x.com/<user>
+unfollow.txt   : https://x.com/<user>
+tweets.txt     : free text, one line = one tweet (<=280 chars)
+replies.txt    : <tweet_url>|<reply text>

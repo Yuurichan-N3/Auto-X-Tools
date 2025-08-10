@@ -1,0 +1,55 @@
+{
+  "name": "auto-x-tools",
+  "version": "1.2.1",
+  "private": true,
+  "license": "UNLICENSED",
+  "description": "Headless multi-account X automation (like/retweet/follow/tweet/reply) using Puppeteer.",
+  "author": "Yuurichan-N3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuurichan-N3/Auto-X-Tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yuurichan-N3/Auto-X-Tools/issues"
+  },
+  "homepage": "https://github.com/Yuurichan-N3/Auto-X-Tools#readme",
+  "type": "module",
+  "main": "bot.js",
+  "bin": {
+    "xdom": "bin/xdom"
+  },
+  "files": [
+    "bot.js",
+    "bin/xdom",
+    "scripts/",
+    "docs/",
+    "config/",
+    "X/.keep"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "packageManager": "npm@10",
+  "scripts": {
+    "start": "node bot.js",
+    "xdom": "node bot.js",
+    "dev": "node --trace-warnings bot.js",
+    "check": "node -e \"console.log('ok')\""
+  },
+  "keywords": [
+    "puppeteer",
+    "x",
+    "twitter",
+    "automation",
+    "headless",
+    "cli",
+    "retweet",
+    "like",
+    "follow",
+    "multi-account"
+  ],
+  "dependencies": {
+    "puppeteer": "^21.6.1",
+    "chalk": "^5.3.0"
+  }
+}

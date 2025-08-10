@@ -1,0 +1,9 @@
+@startuml
+actor User
+participant Bot
+User -> Bot: node bot.js
+Bot -> Bot: Load config/targets
+Bot -> X: DOM actions via Puppeteer
+X --> Bot: Success/Fail
+Bot --> User: Colored logs
+@enduml

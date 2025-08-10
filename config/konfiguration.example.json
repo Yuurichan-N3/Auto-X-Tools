@@ -1,0 +1,16 @@
+{
+  "like": true,
+  "retweet": true,
+  "follow": false,
+  "unfollow": false,
+  "tweet": false,
+  "reply": false,
+  "delayMin": 8,
+  "delayMax": 18,
+  "cooldownBetweenAccounts": 15,
+  "perAccount": 5,
+  "emulateMobile": false,
+  "userAgent": "",
+  "autoCreateTargetFiles": true,
+  "maxRetries": 3
+}

@@ -1,0 +1,4 @@
+- `konfiguration.json` controls toggles and delays.
+- `perAccount` limits actions per account per run.
+- `emulateMobile: true` often stabilizes the composer UI.
+- `maxRetries` raises DOM retries for slow pages.

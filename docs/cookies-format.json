@@ -1,0 +1,13 @@
+[
+  {
+    "name": "auth_token",
+    "value": "xxxxxxxx",
+    "domain": ".x.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true,
+    "sameSite": "no_restriction",
+    "expirationDate": 1893456000
+  },
+  { "name": "ct0", "value": "yyyyyyyy", "domain": ".x.com", "path": "/" }
+]

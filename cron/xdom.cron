@@ -1,0 +1,1 @@
+*/30 * * * * cd /opt/xdom && /usr/bin/node bot.js >> logs/cron.log 2>&1
