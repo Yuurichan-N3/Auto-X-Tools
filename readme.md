@@ -12,7 +12,7 @@ Puppeteer を用いた、ターミナルだけで動くヘッドレスの **X（
 
 > **リポジトリ:** `Yuurichan-N3/Auto-X-Tools`
 > **作者:** @Yuurichan-N3
-> **ライセンス:** UNLICENSED / Proprietary（`LICENSE.txt` を参照）
+> **ライセンス:** UNLICENSED / Proprietary
 > **動作環境:** Node.js ≥ 20、Puppeteer ^21.6.1
 
 ---
